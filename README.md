@@ -2,7 +2,7 @@
 
 This is a ReactJS project built to implement a mobile app interface based on the Adobe XD design provided. The app is fully responsive, pixel-perfect, and features smooth navigation between Login, Signup, Profile, and Account pages.
 
-## Demo
+## Live Demo
 
 https://react-intern-w2a1.onrender.com/
 
@@ -31,4 +31,4 @@ https://react-intern-w2a1.onrender.com/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Manisha-Onkar/Mobile-UI
